@@ -37,8 +37,8 @@ const data = [
     dob: { mm: month.Nov, mmstr: "Nov", dd: 14 },
   },
   {
-    name: "Razeena",
-    dob: { mm: month.Dec, mmstr: "Dec", dd: 1 },
+    name: "Najla",
+    dob: { mm: month.Nov, mmstr: "Aug", dd: 31 },
   },
   {
     name: "Anjun",
@@ -58,6 +58,10 @@ const data = [
   },
   {
     name: "Arjun",
+    dob: { mm: month.June, mmstr: "Jun", dd: 16 },
+  },
+    {
+    name: "Ashik",
     dob: { mm: month.June, mmstr: "Jun", dd: 16 },
   },
   {
@@ -109,10 +113,6 @@ const data = [
     dob: { mm: month.Jan, mmstr: "Jan", dd: 13 },
   },
   {
-    name: "Sneha",
-    dob: { mm: month.Jan, mmstr: "Jan", dd: 13 },
-  },
-  {
     name: "Fouz",
     dob: { mm: month.Dec, mmstr: "Dec", dd: 4 },
   },
@@ -129,14 +129,9 @@ const data = [
     dob: { mm: month.April, mmstr: "April", dd: 18 },
   },
   {
-    name: "Malik",
-    dob: { mm: month.July, mmstr: "July", dd: 12 },
-  },
-  {
     name: "Aflah",
     dob: { mm: month.July, mmstr: "July", dd: 17 },
   },
-
   {
     name: "Azeem",
     dob: { mm: month.Nov, mmstr: "Nov", dd: 8 },
